@@ -1,4 +1,4 @@
-# GoogleMaps-Bootstrap
+# GoogleMaps-Bootstrap-Modal
 
 El objetivo de este ejemplo es mostrar como usar google maps dentros de un modal de bootstrap, añadido a eso debo resaltar la inclusion de diferentes funciones como ser:
 *Obtener las cordenadas segun el evento clic, 
