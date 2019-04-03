@@ -1,5 +1,7 @@
 # GoogleMaps-Bootstrap-Modal
 
+In this example you can see one map of google inside of Bootstrap Modal, in this example you can see how to use a search box of google maps in the modal too, other function is the coordenates picker when the map is clicked.
+
 El objetivo de este ejemplo es mostrar como usar google maps dentros de un modal de bootstrap, añadido a eso debo resaltar la inclusion de diferentes funciones como ser:
 *Obtener las cordenadas segun el evento clic, 
 *Colocar un marker nuevo en cada punto en el cual se haga clic,
